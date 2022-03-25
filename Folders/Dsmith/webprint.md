@@ -1,8 +1,14 @@
-# *EMAILS*
-Gmail
+# Digital Footprint 
+
+
+## EMAILS
+
+### Gmail
+
 Aliveandwellband@gmail.com
 blackhatallycat@gmail.com
 b3thelightmi@gmail.com
+c0d3bl0k@gmail.com
 dontcallmedsmith@gmail.com
 dsmithrecordings@gmail.com
 hittheresetmi@gmail.com
@@ -14,35 +20,40 @@ repaerehtmai@gmail.com
 rockanddrumroll@gmail.com
 Smsaffair@gmail.com
 strangersagainband@gmail.com
+thecasketdiaries@gmail.com
 tillweareburied@gmail.com
 whoisdsmith@gmail.com
 
-Outlook
+### Outlook
+
 thefailureoftimeinvention@outlook.com
 Theycallmedsmith@outlook.com
 whoisdsmith@outlook.com
 
-AOL
+### AOL
+
 Iamdustinsmith@aol.com
 nudedude42069@aol.com
 persy123@aol.com
 Whatitiz2burn@aol.com
 
-MISC
+### MISC
+
 iam@hitthereset.org
 
-Yahoo
+### Yahoo
+
 dustinthemartyr@yahoo.com
 hittheresetmi@yahoo.com
 mulligami@yahoo.com
 Sky_fading@yahoo.com
 
-Live
+### Live
+
 Iamtfoti@live.com
 
 - - - -
-
-*CELLPHONE NUMBERS*
+## CELLPHONE NUMBERS
 
 2695793545
 2696776859
@@ -52,13 +63,14 @@ Iamtfoti@live.com
 2698327345
 5173172783
 5173587271
+5174189091
 5176301609
 5177673117
 5178796502
 
 - - - -
 
-*OLD PASSWORDS*
+## OLD PASSWORDS
 
 #Biteme11
 #Bl3ss3d
@@ -86,7 +98,7 @@ Y0uar3my5un5h1ne
 
 - - - -
 
-*OLD SOCIAL*
+## OLD SOCIAL
 
 dustinthemartyr@yahoo.com - Ipad8565
 Sky_fading@yahoo.com    biteme11
@@ -94,7 +106,7 @@ Dustinthemartyr@yahoo.com:iamthedramalife
 
 - - - -
 
-*ADDRESSES*
+## ADDRESSES
 
 15881 MCCLELLAN DRIVE Apt B30 - Marshall (2006)
 
@@ -116,9 +128,11 @@ Elm St , Tekonsha, MI (2009)
 
 816  S  Kalamazoo Ave, Marshall, MI 49068-1939 (2016)
 
+702 South Hillsdale, Homer, MI 49245
+
 - - - -
 
-*USER-NAMES*
+## USER-NAMES
 
 Aliveandwellband
 Blackheartbay
@@ -139,13 +153,15 @@ wh0isdsmith
 
 - - - -
 
-*CLOUDS*
+## CLOUDS
 
-BOX
+### BOX
+
 whoisdsmith@gmail.com
 biteme11
 
-MEGA
+### MEGA
+
 repaerehtmai@gmail.com
 N3v3rm3ant
 iam@hitthereset.org
@@ -155,7 +171,7 @@ N3v3rm3ant
 
 - - - -
 
-*BANDS*
+## BANDS
 
 * Persy
 * Mulligan
@@ -173,6 +189,8 @@ N3v3rm3ant
 * Hit The Reset
 * Be The Light
 * I Am The Reaper
+* Astronaudia 
+* Lightbringer
 * The Casket Diaries
 
 #Important #Bl3ss3d #Biteme11 #N3v3rM3ant #slutwife #blessed
