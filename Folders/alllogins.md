@@ -645,8 +645,8 @@
 |https://coverageforemployees.com|https://coverageforemployees.com|dsmith@jorgensen-usa.com|B1teme11|
 |coverageforemployees.com|https://coverageforemployees.com/|dsmith@jorgensen-usa.com|B1teme11|
 |https://cpanel-box5752.bluehost.com|https://cpanel-box5752.bluehost.com|admin|[Mlp321Zaq]|
-|cpanel-box5752.bluehost.com|https://cpanel-box5752.bluehost.com/cpsess0061541904/frontend/bluehost/email_accounts/index.html|admin|[Mlp321Zaq]|
-|cpanel-box5752.bluehost.com|https://cpanel-box5752.bluehost.com/cpsess5737755476/frontend/bluehost/index.html|elnulqmy|[Mlp321Zaq]|
+|cpanel-box5752.bluehost.com|https://cpanel-box5752.bluehost.com|admin|[Mlp321Zaq]|
+|cpanel-box5752.bluehost.com|https://cpanel-box5752.bluehost.com|elnulqmy|[Mlp321Zaq]|
 |https://cracked.to|https://cracked.to|Da3m0ns|#R3apY0u|
 |cracked.to|https://cracked.to/|Da3m0ns|#R3apY0u|
 |https://creaxy.com|https://creaxy.com|username|password|
@@ -992,8 +992,6 @@
 |https://klive.kellogg.edu|https://klive.kellogg.edu|k0288264|J3n53n9512|
 |klive.kellogg.edu|https://klive.kellogg.edu/|k0221782|biteme11|
 |klive.kellogg.edu|https://klive.kellogg.edu/|k0288264|J3n53n9512|
-|https://kompoz.com|https://kompoz.com|Anotherlife|Fuckst3v13|
-|kompoz.com|https://kompoz.com/music/register;jsessionid=8092E130615B59FBAC8E0E16F77AC5D4|Anotherlife|Fuckst3v13|
 |https://lampyre.io|https://lampyre.io|da3m0nr3vp3r@gmail.com|#R3apY0u|
 |https://lampyre.io|https://lampyre.io|whoisdsmith@gmail.com|#R3apY0u|
 |lampyre.io|https://lampyre.io/|da3m0nr3vp3r@gmail.com|#R3apY0u|
@@ -1139,7 +1137,6 @@
 |https://mega.nz|https://mega.nz|dustinthemartyr@yahoo.com|N3v3rm3ant|
 |mega.nz|https://mega.nz/|dustinthemartyr@yahoo.com|N3v3rm3ant|
 |mega.nz|https://mega.nz/|repaerehtmai@gmail.com|N3v3rm3ant|
-|mega.nz|https://mega.nz/confirmQ29uZmlybUNvZGVWMj211eWGBAAErKX7LMJF2GlhbUBoaXR0aGVyZXNldC5vcmcJRHVzdGluIFNtaXRo_6c5Oyv3ffY|iam@hitthereset.org|#N3v3rM3ant|
 |https://mega.privacy.android.app|https://mega.privacy.android.app|reaperehtmai@gmail.com|#R3apY0u|
 |https://mega.privacy.android.app|https://mega.privacy.android.app|repaerehtmai@gmail.com|N3v3rm3ant|
 |https://mega.privacy.android.app|https://mega.privacy.android.app|reaperehtmai@gmail.com|#R3apY0u|
@@ -1148,8 +1145,6 @@
 |mega.privacy.android.app|https://mega.privacy.android.app/|repaerehtmai@gmail.com|N3v3rm3ant|
 |https://melobytes.com|https://melobytes.com|thecasketdiaries@gmail.com|#R3apY0u|
 |melobytes.com|https://melobytes.com/|thecasketdiaries@gmail.com|#R3apY0u|
-|https://member.hide.me|https://member.hide.me|whoisdsmith|Biteme11|
-|member.hide.me|https://member.hide.me/en/activate/11c0df8d225b16a815c9c9f1b2d8431d/fc96ae9b4931ecc6d1af436d8d7c76c6|whoisdsmith|Biteme11|
 |https://members.cdbaby.com|https://members.cdbaby.com|Anotherlife|Fuckst3v13|
 |members.cdbaby.com|https://members.cdbaby.com/sign-up|Anotherlife|Fuckst3v13|
 |https://members.creditera.com|https://members.creditera.com|whoisdsmith@gmail.com|Biteme11|
@@ -1497,9 +1492,6 @@
 |secure.ancestry.com|https://secure.ancestry.com/Account/ForgotPassword|whoisdsmith|Biteme11|
 |https://secure.hulu.com|https://secure.hulu.com|thecasketdiariea@gmail.com|#R3apY0u|
 |secure.hulu.com|https://secure.hulu.com/|thecasketdiariea@gmail.com|#R3apY0u|
-|https://secure.identityguard.com|https://secure.identityguard.com|Whoisdsmith|Biteme11|
-|secure.identityguard.com|https://secure.identityguard.com/LogonForm|WHOISDSMITH|Biteme11|
-|secure.identityguard.com|https://secure.identityguard.com/webapp/wcs/stores/servlet/INTXEnrollmentVerifyEIDVer2|Whoisdsmith|Biteme11|
 |https://secure.indeed.com|https://secure.indeed.com|w|Belkin#123|
 |secure.indeed.com|https://secure.indeed.com/account/login|w|Belkin#123|
 |https://secure.last.fm|https://secure.last.fm|whoisdsmith|Y0uar3my5un5h1n3|
