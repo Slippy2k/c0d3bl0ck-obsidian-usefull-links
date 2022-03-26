@@ -1,4 +1,7 @@
-## Favorites searches
+# Favorites searches
+
+---
+
 * [Gmail](https://mail.google.com/mail/u/0/#search/in%3Ainbox) - mails still in inbox (from me and others people)
 * [Gmail](https://mail.google.com/mail/u/0/#search/in%3Ainbox+label%3Astarred) - starred mails (from me and others people)
 * [Gmail](https://mail.google.com/mail/u/0/#search/in%3Ainbox+has%3Anouserlabels) - mails still in inbox without user label

@@ -1,4 +1,6 @@
-## ▷ Search Tools
+# ▷ Search Tools
+
+---
 
 -   **[Alternative Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_alternative_search_engines)** or **[Search-Engine](https://start.me/p/wM7y15/search-engine)** - _Search Engine Indexes_
 -   **[Privacy Based Search Engines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_search_engines)**
