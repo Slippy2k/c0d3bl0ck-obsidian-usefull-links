@@ -16,7 +16,7 @@
 
 [[Search-Tools]]
 
-[[SEARCH-TOOLS-FMHY]]
+[[Search-Tools-FMHY]]
 
 [[Searches]]
 
