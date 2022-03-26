@@ -1,5 +1,7 @@
 # Alternative search engines & video sites to Google & Youtube
 
+---
+
 The latest update as I cannot edit any of the replies or the original thread.  
   
 **These are my favourite video sharing websites from the below list:**  

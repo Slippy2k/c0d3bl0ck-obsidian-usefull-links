@@ -3,7 +3,7 @@
 
 ---
 
-**[[Alternative-Search-Engines]]**
+**[[Folders/Awesome/Awesome-Custom-Search-Engines/Alternative-Search-Engines]]**
 
 **[[Alternative-Software-App-Sites]]**
 
