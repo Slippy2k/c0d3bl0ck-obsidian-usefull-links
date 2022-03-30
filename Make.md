@@ -16,11 +16,11 @@
 
 ## [[HTTP]]
 
-## [[Tools]]
+## [[Folders/Documentation/Make/Tools]]
 
 ## [[Email]]
 
-## [[Image]]
+## [[Folders/Documentation/Make/Image]]
 
 ## [[Router]]
 

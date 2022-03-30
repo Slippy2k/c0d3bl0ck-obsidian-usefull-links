@@ -22,7 +22,7 @@
 
 ##### [[DOWNLOADPIRACYGUIDE]]
 
-##### [[TORRENTS]]
+##### [[Folders/Bookmarks/Piracy/TORRENTS]]
 
 ##### [[TORRENT2GDRIVETELEGRAMBOTS]]
 
@@ -51,7 +51,7 @@
 
 ##### [[INDEX (Rentry)]]
 
-##### [[MISC]]
+##### [[Folders/Bookmarks/Piracy/MISC]]
 
 ##### [[Folders/Bookmarks/Piracy/MISCGUIDE]]
 

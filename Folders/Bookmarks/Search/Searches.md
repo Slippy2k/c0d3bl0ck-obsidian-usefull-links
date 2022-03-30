@@ -21,7 +21,7 @@
 
 
 * [GitHub](https://github.com/discover) - Discover repositories : Recommendations are based on your stars and people you follow
-* Foobar : Favorite tracks -> %COMMENT% HAS 4/5 OR %COMMENT% HAS 5/5 OR %COMMENT% HAS 9/10
+
 
 
 * [Hacker News](https://hn.algolia.com/?query=Docker&sort=byPopularity&prefix&page=0&dateRange=pastMonth&type=story) - last month docker news
