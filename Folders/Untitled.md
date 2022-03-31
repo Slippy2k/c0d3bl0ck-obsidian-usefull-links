@@ -1,13 +1,11 @@
-			`var userInput;
-		   var more;
-		   
-           userInput=prompt(&quot;Select number from 0 to 9&quot;,&quot;&quot;)
-		   userInput=parseInt(userInput);
-		  
+# Loop
 
-		  for (index=userInput;index &lt; 0;index&gt;9 ) {
-	document.write(&quot;Not in range&quot;);
-	
-	
+while (true) {
+    for (let i = 5; i > 0; i--) {
+  console.log
+//begin-infinite-loop
 }
-document.write(&quot;Not in range&quot;);``
+
+for (let i = 5; i > 0; i--) {
+  console.log("Infinite loop");
+}
